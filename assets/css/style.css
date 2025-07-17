@@ -68,7 +68,7 @@ body {
   background-color: var(--primary);
 }
 .blog-preview-card {
-  width: min(100% - 30px, 35rem);
+  width: min(100% - 3rem, 35rem);
   margin: 2rem auto;
   border: var(--border);
   border-radius: 10px;
